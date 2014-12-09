@@ -1,0 +1,9 @@
+c:\users\dragutin\documents\visual studio 2013\Projects\projektOS\projektOS\bin\Debug\projektOS.exe.config
+C:\Users\Dragutin\Documents\Visual Studio 2013\Projects\projektOS\projektOS\bin\Debug\projektOS.exe
+C:\Users\Dragutin\Documents\Visual Studio 2013\Projects\projektOS\projektOS\bin\Debug\projektOS.pdb
+C:\Users\Dragutin\Documents\Visual Studio 2013\Projects\projektOS\projektOS\obj\Debug\projektOS.csprojResolveAssemblyReference.cache
+C:\Users\Dragutin\Documents\Visual Studio 2013\Projects\projektOS\projektOS\obj\Debug\projektOS.Form1.resources
+C:\Users\Dragutin\Documents\Visual Studio 2013\Projects\projektOS\projektOS\obj\Debug\projektOS.Properties.Resources.resources
+C:\Users\Dragutin\Documents\Visual Studio 2013\Projects\projektOS\projektOS\obj\Debug\projektOS.csproj.GenerateResource.Cache
+C:\Users\Dragutin\Documents\Visual Studio 2013\Projects\projektOS\projektOS\obj\Debug\projektOS.exe
+C:\Users\Dragutin\Documents\Visual Studio 2013\Projects\projektOS\projektOS\obj\Debug\projektOS.pdb
